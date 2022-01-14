@@ -184,7 +184,7 @@ body.night{
     margin-right: 10px;
     width: 100vw;
     display: grid;
-    grid-template-columns: repeat(auto-fill,minmax(400px,400px));
+    grid-template-columns: repeat(auto-fill,minmax(300px,300px));
     column-gap: 10px;
     row-gap: 10px;
 }
@@ -247,7 +247,7 @@ footer{
     background: #837a7a;
     line-height: 60px;
     border-radius: 50%;
-    margin: 0 15px;
+    margin: 0 10px;
     cursor: pointer;
 }
 .icon{
